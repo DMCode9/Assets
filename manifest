@@ -1,8 +1,19 @@
 {
   "manifest_version": 1,
   "assets": {
+    "pagkosmies": {
+      "version": 1,
+      "size": "180 KB",
+      "url": "https://github.com/DMCode9/Assets/releases/download/WorldDays-v1.0/pagkosmies_encrypted.bin"
+    },
+    "sansimera": {
+      "version": 1,
+      "size": "950 KB",
+      "url": "https://github.com/DMCode9/Assets/releases/download/SanSimera-v1.0/sansimera_encrypted.bin"
+    },
     "anagnosmata": {
       "version": 1,
+      "size": "600 KB",
       "files": [
         {
           "name": "anagnosmata.bin",
@@ -14,70 +25,32 @@
         }
       ]
     },
+    "saints_images": {
+      "version": 1,
+      "size": "134 MB",
+      "is_zip": true,
+      "url": "https://github.com/DMCode9/Assets/releases/download/SaintsImages-v1.0/saints_images.zip"
+    },
     "synaxario": {
       "version": 1,
-      "files": [
-        {
-          "name": "synaxari_gr.bin",
-          "url": "https://github.com/DMCode9/Assets/releases/download/Synaxario-v1.0/synaxari_gr.bin"
-        }
-      ]
-    },
-    "sansimera": {
-      "version": 1,
-      "files": [
-        {
-          "name": "sansimera_encrypted.bin",
-          "url": "https://github.com/DMCode9/Assets/releases/download/Sansimera-v1.0/sansimera_encrypted.bin"
-        }
-      ]
-    },
-    "pagkosmies": {
-      "version": 1,
-      "files": [
-        {
-          "name": "pagkosmies_encrypted.bin",
-          "url": "https://github.com/DMCode9/Assets/releases/download/Pagkosmies-v1.0/pagkosmies_encrypted.bin"
-        }
-      ]
-    },
-    "quotes": {
-      "version": 1,
-      "files": [
-        {
-          "name": "quotes.bin",
-          "url": "https://github.com/DMCode9/Assets/releases/download/Quotes-v1.0/quotes.bin"
-        }
-      ]
+      "size": "1.5 MB",
+      "url": "https://github.com/DMCode9/Assets/releases/download/Synaxario-v1.0/synaxari_gr.bin"
     },
     "phones": {
       "version": 1,
-      "files": [
-        {
-          "name": "phones.bin",
-          "url": "https://github.com/DMCode9/Assets/releases/download/Phones-v1.0/phones.bin"
-        }
-      ]
+      "size": "85 KB",
+      "url": "https://github.com/DMCode9/Assets/releases/download/Phones-v1.0/phones.bin"
+    },
+    "quotes": {
+      "version": 1,
+      "size": "320 KB",
+      "url": "https://github.com/DMCode9/Assets/releases/download/Quotes-v1.0/quotes.bin"
     },
     "week_images": {
       "version": 1,
+      "size": "1.2 MB",
       "is_zip": true,
-      "files": [
-        {
-          "name": "week_images.zip",
-          "url": "https://github.com/DMCode9/Assets/releases/download/WeekImages-v1.0/week_images.zip"
-        }
-      ]
-    },
-    "saints_images": {
-      "version": 1,
-      "is_zip": true,
-      "files": [
-        {
-          "name": "saints_images.zip",
-          "url": "https://github.com/DMCode9/Assets/releases/download/SaintsImages-v1.0/saints_images.zip"
-        }
-      ]
+      "url": "https://github.com/DMCode9/Assets/releases/download/WeekImages-v1.0/week_images.zip"
     }
   }
 }
