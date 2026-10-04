@@ -55,8 +55,7 @@
     "wishes": {
       "version": 1,
       "size": "5 KB",
-      "is_zip": true,
-      "url": "https://github.com/DMCode9/Assets/releases/download/Wishes-v1.0/wishes.zip"
+      "url": "https://github.com/DMCode9/Assets/releases/download/Wishes-v1.0/wishes.bin"
     }
   }
 }
