@@ -3,7 +3,7 @@
   "assets": {
     "pagkosmies": {
       "version": 8,
-      "size": "16 KB",
+      "size": "15.2 KB",
       "url": "https://github.com/DMCode9/Assets/releases/download/Pagkosmies-v2.0/pagkosmies_encrypted.bin"
     },
     "sansimera": {
@@ -13,7 +13,7 @@
     },
     "anagnosmata": {
       "version": 1,
-      "size": "600 KB",
+      "size": "1,76 ΜB",
       "files": [
         {
           "name": "anagnosmata.bin",
@@ -27,7 +27,7 @@
     },
     "saints_images": {
       "version": 1,
-      "size": "134 MB",
+      "size": "130 MB",
       "is_zip": true,
       "url": "https://github.com/DMCode9/Assets/releases/download/SaintsImages-v1.0/saints_images.zip"
     },
@@ -38,12 +38,12 @@
     },
     "phones": {
       "version": 1,
-      "size": "85 KB",
+      "size": "1,5 KB",
       "url": "https://github.com/DMCode9/Assets/releases/download/Phones-v1.0/phones.bin"
     },
     "quotes": {
       "version": 1,
-      "size": "320 KB",
+      "size": "58,8 KB",
       "url": "https://github.com/DMCode9/Assets/releases/download/Quotes-v1.0/quotes.bin"
     },
     "week_images": {
@@ -54,7 +54,7 @@
     },
     "wishes": {
       "version": 1,
-      "size": "5 KB",
+      "size": "4,7 KB",
       "url": "https://github.com/DMCode9/Assets/releases/download/Wishes-v1.0/wishes.bin"
     }
   }
