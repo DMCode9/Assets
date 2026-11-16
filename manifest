@@ -1,10 +1,11 @@
 {
-  "manifest_version": 15,
+  "manifest_version": 16,
   "assets": {
     "pagkosmies": {
-      "version": 8,
+      "version": 9,
       "size": "15.2 KB",
-      "url": "https://github.com/DMCode9/Assets/releases/download/Pagkosmies-v2.0/pagkosmies_encrypted.bin"
+      "url": "https://github.com/DMCode9/Assets/releases/download/Pagkosmies-v9.0/pagkosmies_encrypted.bin",
+      "sha256": "97b177f8926a9fe9e6334a19cca4b79a2fdcd1eca7ad11d57fa419228651c1d3"
     },
     "sansimera": {
       "version": 5,
