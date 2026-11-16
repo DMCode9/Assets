@@ -1,5 +1,5 @@
 {
-  "manifest_version": 8,
+  "manifest_version": 9,
   "assets": {
     "pagkosmies": {
       "version": 8,
@@ -12,7 +12,7 @@
       "url": "https://github.com/DMCode9/Assets/releases/download/SanSimera-v2.0/sansimera_encrypted.bin"
     },
     "anagnosmata": {
-      "version": 2,
+      "version": 3,
       "size": "1.68 MB",
       "files": [
         {
