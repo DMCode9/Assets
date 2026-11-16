@@ -1,5 +1,5 @@
 {
-  "manifest_version": 11,
+  "manifest_version": 12,
   "assets": {
     "pagkosmies": {
       "version": 8,
@@ -53,9 +53,10 @@
       "url": "https://github.com/DMCode9/Assets/releases/download/WeekImages-v1.1/week_images.zip"
     },
     "wishes": {
-      "version": 1,
-      "size": "4,7 KB",
-      "url": "https://github.com/DMCode9/Assets/releases/download/Wishes-v1.0/wishes.bin"
+      "version": 2,
+      "size": "4.6 KB",
+      "url": "https://github.com/DMCode9/Assets/releases/download/Wishes-v2.0/wishes_encrypted.bin",
+      "sha256": "20b29b66340689e9b57969b838403a0653670b38d3aef20fffa9cb9bf631aa6e"
     }
   }
 }
