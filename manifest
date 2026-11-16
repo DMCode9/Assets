@@ -1,5 +1,5 @@
 {
-  "manifest_version": 9,
+  "manifest_version": 10,
   "assets": {
     "pagkosmies": {
       "version": 8,
@@ -32,9 +32,9 @@
       "url": "https://github.com/DMCode9/Assets/releases/download/SaintsImages-v1.0/saints_images.zip"
     },
     "synaxario": {
-      "version": 2,
-      "size": "2.72 MB",
-      "url": "https://github.com/DMCode9/Assets/releases/download/Synaxario-v2.0/synaxari_gr.bin"
+      "version": 3,
+      "size": "2.69 MB",
+      "url": "https://github.com/DMCode9/Assets/releases/download/Synaxario-v3.0/synaxari_gr.bin"
     },
     "phones": {
       "version": 1,
