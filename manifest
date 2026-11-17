@@ -1,5 +1,5 @@
 {
-  "manifest_version": 16,
+  "manifest_version": 17,
   "assets": {
     "pagkosmies": {
       "version": 9,
@@ -8,9 +8,10 @@
       "sha256": "97b177f8926a9fe9e6334a19cca4b79a2fdcd1eca7ad11d57fa419228651c1d3"
     },
     "sansimera": {
-      "version": 5,
+      "version": 6,
       "size": "1.57 MB",
-      "url": "https://github.com/DMCode9/Assets/releases/download/SanSimera-v2.0/sansimera_encrypted.bin"
+      "url": "https://github.com/DMCode9/Assets/releases/download/SanSimera-v6.0/sansimera_encrypted.bin",
+      "sha256": "7742fbd12be7e8e4ce0c3ba6ca4dd53df75e11fed877ac6fa638397675fdf2b1"
     },
     "anagnosmata": {
       "version": 3,
