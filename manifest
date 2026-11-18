@@ -1,5 +1,5 @@
 {
-  "manifest_version": 20,
+  "manifest_version": 21,
   "assets": {
     "pagkosmies": {
       "version": 9,
@@ -41,9 +41,10 @@
       "sha256": "3c19c52597aa6d8e8a55bfc2e11923c3c19b61306fcf7a9c9da00e578d47c218"
     },
     "phones": {
-      "version": 1,
-      "size": "1,5 KB",
-      "url": "https://github.com/DMCode9/Assets/releases/download/Phones-v1.0/phones.bin"
+      "version": 2,
+      "size": "1.6 KB",
+      "url": "https://github.com/DMCode9/Assets/releases/download/Phones-v2.0/phones.bin",
+      "sha256": "8169d2ad0b76c3fe966eedc35eb10bf290bde6b61f7e648581821820e0e28681"
     },
     "quotes": {
       "version": 2,
