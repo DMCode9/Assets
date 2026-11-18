@@ -1,5 +1,5 @@
 {
-  "manifest_version": 19,
+  "manifest_version": 20,
   "assets": {
     "pagkosmies": {
       "version": 9,
@@ -59,10 +59,10 @@
       "sha256": "4459f04143841be48da17388fb5fe432ac41a1cba4cd78db7a5851dbf1e41763"
     },
     "wishes": {
-      "version": 2,
-      "size": "4.6 KB",
-      "url": "https://github.com/DMCode9/Assets/releases/download/Wishes-v2.0/wishes_encrypted.bin",
-      "sha256": "20b29b66340689e9b57969b838403a0653670b38d3aef20fffa9cb9bf631aa6e"
+      "version": 3,
+      "size": "11.9 KB",
+      "url": "https://github.com/DMCode9/Assets/releases/download/Wishes-v3.0/wishes_encrypted.bin",
+      "sha256": "6df66ae2060fe2d0674b9bb720afd9e2feea9ecce52441a3ad92a50833ef1c29"
     },
     "names_gr": {
       "version": 1,
