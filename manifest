@@ -1,5 +1,5 @@
 {
-  "manifest_version": 18,
+  "manifest_version": 19,
   "assets": {
     "pagkosmies": {
       "version": 9,
@@ -46,9 +46,10 @@
       "url": "https://github.com/DMCode9/Assets/releases/download/Phones-v1.0/phones.bin"
     },
     "quotes": {
-      "version": 1,
-      "size": "58,8 KB",
-      "url": "https://github.com/DMCode9/Assets/releases/download/Quotes-v1.0/quotes.bin"
+      "version": 2,
+      "size": "80.7 KB",
+      "url": "https://github.com/DMCode9/Assets/releases/download/Quotes-v2.0/quotes.bin",
+      "sha256": "7d79673e2147e33dbfd24604dd83dbcc0cfb070cf5239072b7306f5df8026921"
     },
     "week_images": {
       "version": 3,
