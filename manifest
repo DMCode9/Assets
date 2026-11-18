@@ -1,5 +1,5 @@
 {
-  "manifest_version": 21,
+  "manifest_version": 22,
   "assets": {
     "pagkosmies": {
       "version": 9,
@@ -70,6 +70,12 @@
       "size": "215.4 KB",
       "url": "https://github.com/DMCode9/Assets/releases/download/NamesGR-v1.0/names_gr_encrypted.bin",
       "sha256": "7e8b847c06f291275a8a26029d3bc56fa889c6005cf4dd479f168491653a097b"
+    },
+    "recipes": {
+      "version": 2,
+      "size": "5.6 KB",
+      "url": "https://github.com/DMCode9/Assets/releases/download/Recipes-v2.0/recipes_encrypted.bin",
+      "sha256": "3aaf9532a88ac9ff6986ccc164b40af4f5f6903c0bf9f8fb42c6b700c490d45c"
     }
   }
 }
