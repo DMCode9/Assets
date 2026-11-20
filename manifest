@@ -1,5 +1,5 @@
 {
-  "manifest_version": 26,
+  "manifest_version": 27,
   "assets": {
     "pagkosmies": {
       "version": 9,
@@ -94,6 +94,12 @@
       "version": 2,
       "size": "9.5 KB",
       "sha256": "59268685840eb13c441e53a2d6f510d094446caae08dae08ceaf5d24bef59c2b"
+    },
+    "quotes_en": {
+      "url": "https://github.com/DMCode9/Assets/releases/download/QuotesEN-v2.0/quotes_en.bin",
+      "version": 2,
+      "size": "49.2 KB",
+      "sha256": "63a38518fbc61d6ecc2104ffd480db29cfeada1b4bce4c6742afbe1e53169b17"
     }
   }
 }
