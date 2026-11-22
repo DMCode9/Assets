@@ -1,5 +1,5 @@
 {
-  "manifest_version": 30,
+  "manifest_version": 31,
   "assets": {
     "pagkosmies": {
       "version": 9,
@@ -106,6 +106,12 @@
       "version": 2,
       "size": "4.29 MB",
       "sha256": "b96d0ee13e59ceeafc6a89cc1f91c3ead25855fedabc77b0e6a1bb5da983e848"
+    },
+    "pagkosmies_en": {
+      "url": "https://github.com/DMCode9/Assets/releases/download/PagkosmiesEN-v2.0/pagkosmies_en_encrypted.bin",
+      "version": 2,
+      "size": "12.6 KB",
+      "sha256": "68c755da2aa485f8bd4a89555b0b05d14774a36a6a20120ab18b4f1666e0a937"
     }
   }
 }
