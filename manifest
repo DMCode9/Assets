@@ -1,5 +1,5 @@
 {
-  "manifest_version": 34,
+  "manifest_version": 35,
   "assets": {
     "pagkosmies": {
       "version": 9,
@@ -14,18 +14,19 @@
       "sha256": "7742fbd12be7e8e4ce0c3ba6ca4dd53df75e11fed877ac6fa638397675fdf2b1"
     },
     "anagnosmata": {
-      "version": 3,
+      "version": 4,
       "size": "1.68 MB",
       "files": [
         {
           "name": "anagnosmata.bin",
-          "url": "https://github.com/DMCode9/Assets/releases/download/Anagnosmata-v2.0/anagnosmata.bin"
+          "url": "https://github.com/DMCode9/Assets/releases/download/Anagnosmata-v4.0/anagnosmata.bin"
         },
         {
           "name": "calendarium.bin",
           "url": "https://github.com/DMCode9/Assets/releases/download/Anagnosmata-v1.0/calendarium.bin"
         }
-      ]
+      ],
+      "sha256": "0f15181f5353029532f31f6129a06ae9d605e527cc248050ff5e78d17b94e59f"
     },
     "saints_images": {
       "version": 2,
