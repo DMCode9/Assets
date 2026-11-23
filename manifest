@@ -1,5 +1,5 @@
 {
-  "manifest_version": 33,
+  "manifest_version": 34,
   "assets": {
     "pagkosmies": {
       "version": 9,
@@ -112,6 +112,12 @@
       "version": 2,
       "size": "12.6 KB",
       "sha256": "68c755da2aa485f8bd4a89555b0b05d14774a36a6a20120ab18b4f1666e0a937"
+    },
+    "anagnosmata_en": {
+      "url": "https://github.com/DMCode9/Assets/releases/download/AnagnosmataEN-v2.0/anagnosmata_en.bin",
+      "version": 2,
+      "size": "455.7 KB",
+      "sha256": "1b5d24c6324a37936878a6660514c17312cfa063dba2a88e4b41b0df3723d0b8"
     }
   }
 }
