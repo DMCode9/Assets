@@ -1,5 +1,5 @@
 {
-  "manifest_version": 40,
+  "manifest_version": 41,
   "assets": {
     "pagkosmies": {
       "version": 9,
@@ -125,6 +125,12 @@
       "version": 5,
       "size": "1.86 MB",
       "sha256": "7a57ad0f7bc393b6b150f428202878da591d879faab01dca735d39fba27b88f9"
+    },
+    "names_en": {
+      "url": "https://github.com/DMCode9/Assets/releases/download/NamesEN-v2.0/names_en_encrypted.bin",
+      "version": 2,
+      "size": "99.0 KB",
+      "sha256": "c5bfa8dda7f7cb35f82b32687cbf318103df19a282a61bb5934d1bd18b26b8fb"
     }
   }
 }
