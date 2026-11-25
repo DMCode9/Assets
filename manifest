@@ -1,5 +1,5 @@
 {
-  "manifest_version": 43,
+  "manifest_version": 44,
   "assets": {
     "pagkosmies": {
       "version": 9,
@@ -36,10 +36,10 @@
       "sha256": "2d8ba2eb49817cf6630690b4b35a6c17535cc58b412befb26ea2e93bc842f010"
     },
     "synaxario": {
-      "version": 6,
+      "version": 7,
       "size": "2.69 MB",
-      "url": "https://github.com/DMCode9/Assets/releases/download/Synaxario-v6.0/synaxari_gr.bin",
-      "sha256": "186a8afb96cbb0a5953f2e10084a226af5a5fa940c05c2d481009ba4dc94f039"
+      "url": "https://github.com/DMCode9/Assets/releases/download/Synaxario-v7.0/synaxari_gr.bin",
+      "sha256": "5d3e5cad5615872d897f1df82b4aa7605af02462ff059b13271429b36356e1e9"
     },
     "phones": {
       "version": 2,
