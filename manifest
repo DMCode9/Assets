@@ -1,5 +1,5 @@
 {
-  "manifest_version": 49,
+  "manifest_version": 50,
   "assets": {
     "pagkosmies": {
       "version": 9,
@@ -29,11 +29,11 @@
       "sha256": "0f15181f5353029532f31f6129a06ae9d605e527cc248050ff5e78d17b94e59f"
     },
     "saints_images": {
-      "version": 2,
-      "size": "130.36 MB",
+      "version": 3,
+      "size": "130.66 MB",
       "is_zip": true,
-      "url": "https://github.com/DMCode9/Assets/releases/download/SaintsImages-v2.0/saints_images.zip",
-      "sha256": "2d8ba2eb49817cf6630690b4b35a6c17535cc58b412befb26ea2e93bc842f010"
+      "url": "https://github.com/DMCode9/Assets/releases/download/SaintsImages-v3.0/saints_images.zip",
+      "sha256": "2d8cb39fa712799f97f2e1ec0618943cf5c3d64d49b85f477cafd141034e366c"
     },
     "synaxario": {
       "version": 9,
