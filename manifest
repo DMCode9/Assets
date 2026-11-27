@@ -1,5 +1,5 @@
 {
-  "manifest_version": 48,
+  "manifest_version": 49,
   "assets": {
     "pagkosmies": {
       "version": 9,
@@ -121,10 +121,10 @@
       "sha256": "308dd17184c38850943f50d94e3228184d36224c8d66a814f72d57fa320ea7d2"
     },
     "synaxario_en": {
-      "url": "https://github.com/DMCode9/Assets/releases/download/SynaxarioEN-v7.0/synaxari_en.bin",
-      "version": 7,
-      "size": "1.83 MB",
-      "sha256": "6088108f52e69e59942b40bcaa94078813c5b671ebff6ade8b3f74a4111fadde"
+      "url": "https://github.com/DMCode9/Assets/releases/download/SynaxarioEN-v8.0/synaxari_en.bin",
+      "version": 8,
+      "size": "1.89 MB",
+      "sha256": "06a086099aa93ba809daef75edb9fbbc6cc89fe36ba03e705a3327ff1e954e26"
     },
     "names_en": {
       "url": "https://github.com/DMCode9/Assets/releases/download/NamesEN-v2.0/names_en_encrypted.bin",
